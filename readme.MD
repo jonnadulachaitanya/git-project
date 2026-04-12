@@ -5,6 +5,7 @@
 
 # Testing
 * Functional testing
+* API testing
 
 # Pre-prod
 
