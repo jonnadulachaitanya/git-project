@@ -4,8 +4,8 @@
 * High-Level Design (HLD)
 
 # Testing
-* Functional testing
-* API testing
+* bug validation
+* api testing
 
 # Pre-prod
 
