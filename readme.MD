@@ -6,3 +6,4 @@
 # Pre-prod
 
 * Final testing before release
+* Performance testing
