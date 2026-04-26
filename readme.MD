@@ -12,3 +12,5 @@
 * Test planning
 * Test case design
 * Test environment setup
+* Smoke testing
+
