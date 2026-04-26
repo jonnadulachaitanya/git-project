@@ -13,4 +13,5 @@
 * Test case design
 * Test environment setup
 * Smoke testing
-* Sanity testing
+* Sanity testing and Functional testing
+
