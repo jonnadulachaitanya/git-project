@@ -11,3 +11,4 @@
 # QA
 * Test planning
 * Test case design
+* Test environment setup
