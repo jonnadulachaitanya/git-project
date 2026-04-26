@@ -7,3 +7,7 @@
 
 * Final testing before release
 * Performance testing
+
+# QA
+* Test planning
+* Test case design
