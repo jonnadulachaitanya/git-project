@@ -14,4 +14,4 @@
 * Test environment setup
 * Smoke testing
 * Sanity testing and Functional testing
-
+* API testing
