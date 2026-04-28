@@ -14,3 +14,4 @@
 * Smoke testing
 * Integration testing
 * Unit testing
+* Integration testing
