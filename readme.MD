@@ -12,3 +12,4 @@
 
 * performance testing
 * Unit testing
+* Integration testing
