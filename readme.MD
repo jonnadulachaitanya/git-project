@@ -11,5 +11,7 @@
 # test1
 
 * performance testing
+* Smoke testing
+* Integration testing
 * Unit testing
 * Integration testing
