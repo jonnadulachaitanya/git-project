@@ -12,3 +12,4 @@
 
 * performance testing
 * Smoke testing
+* Integration testing
